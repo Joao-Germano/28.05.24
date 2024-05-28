@@ -1,0 +1,33 @@
+Definição de sistema operacional:
+O sistema operacional é um software, ou conjunto varios softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros, estabelecendo a interface entre o computadores e o usuários. 
+
+Entenda como um “computador” qualquer máquina de processamento automático de dados, como um leptop,notebook,celular, e um console de videogame, por exemplo.
+
+O sistema operacional introduz uma camada de abstrata entre o hardware e o usuário, que transforma comandos no mouse, teclado e solicitações do sistema, como gerenciamento de recursos (CPU, memória RAM), em linguagem de máquina, enviando instruções ao processador.
+
+Um sistema operacional contém componentes divididos entre os para o usuário (como bibliotecas, programas e interface) e as instruções que compõem o seu núcleo (kernel).
+
+Kernel:Deu ma forma simplificada kernel é uma ponte entre os usuários e hardware
+
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
+
+Os sistemas operacionais são softwares que gerenciam os aplicativos e os recursos de um dispositivo.Alguns dos mais usados em computadores são o Windows, da Microsoft, da Apple, e o Linux,.Em celulares, Android e iOS são exemplos de sitemasa operacionais populares. Todos esses softwares realizam tarefas para garantir o bom funcionamento dos aparelhos, mas existem diferentes tipos de sistema operacional. Os programas são categorizados de acordo com sua aplicação e têm características próprias do fabricante.
+
+Apesar de cumprirem os mesmos papéis, cada sistema operacional fornece seus próprios recursos, interface e política de segurança. O software de cada dispositivo costuma ser facilmente identificável, mas muitos usuários também têm dúvidas sobre como saber o sistema operacional do PC. 
+
+https://www.techtudo.com.br/guia/2024/03/o-que-e-um-sistema-operacional-veja-tipos-e-exemplos-edsoftwares.ghtml
+
+Como se Utiliza:
+Se você está utilizando um celular, tablet ou computador para ler este artigo, saiba que isso só é possível graças a dispositivo/hardware que você tem na mão precisa de um sistema operacional para funcionar. 
+
+Também chamado de SO, o sistema operacional é um software que, após ser carregado no computador por meio de um programa de inicialização, gerencia todos os outros aplicativos instalados no seu computador. 
+
+Assim que você liga o seu laptop, por exemplo, logo passa ter o controle do mouse, movendo o cursor para qualquer lugar da tela, visualizando sua biblioteca de fotos e até acessando páginas online com o navegador de internet.
+
+E o sistema operacional é o responsável por controlar cada uma dessas tarefas e essas instruções. 
+
+Portanto, o sistema operacional é o software mais importante executado em um computador, gerenciando a memória e os processos do computador, bem como todos os softwares e hardwares. 
+
+Além disso, o SO permite que qualquer usuário interaja com o computador sem saber escrever códigos ou interpretar linguagens de programação.
+
+https://ctrlplay.com.br/o-que-e-sistema-operacional/
