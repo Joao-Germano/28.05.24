@@ -7,7 +7,7 @@ O sistema operacional introduz uma camada de abstrata entre o hardware e o usuá
 
 Um sistema operacional contém componentes divididos entre os para o usuário (como bibliotecas, programas e interface) e as instruções que compõem o seu núcleo (kernel).
 
-Kernel:Deu ma forma simplificada kernel é uma ponte entre os usuários e hardware
+Kernel:De uma forma simplificada kernel é uma ponte entre os usuários e hardware
 
 https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
 
